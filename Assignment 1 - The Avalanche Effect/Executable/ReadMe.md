@@ -1,0 +1,1 @@
+This is an executable for the python script located in the main directory, created using Pyinstaller. Run the executable using the Assign1-2.exe file. 

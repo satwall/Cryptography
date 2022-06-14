@@ -1,0 +1,3 @@
+The Python script is located in the 'Script' folder, you can run it through the command line where it'll ask for user input. There are also two text files, B1.txt which contains Alice in Wonderland and B2.txt which contains Moby Dick, both which I used as a demostration. 
+
+The CSV and TXT references folder includes data I used in the documentation that I've kept for reference to correlate with the information presented.
